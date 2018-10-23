@@ -14,3 +14,9 @@ function reverse(str) {
 }
 
 module.exports = reverse;
+
+// Another way with es6
+
+// return str.split("").reduce((acc, char) => {
+//   return char + acc;
+// });
