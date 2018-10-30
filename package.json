@@ -1,7 +1,7 @@
 {
-  "name": "parcel-sandbox",
+  "name": "js-exercises",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
+  "description": "Simple Sandbox",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
